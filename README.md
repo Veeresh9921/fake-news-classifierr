@@ -1,2 +1,2 @@
-# fake-news-classifierr
-Fake news classifier using LSTM
+# fake-news-classifier
+Fake news classifier using  Bi-directinal LSTM
